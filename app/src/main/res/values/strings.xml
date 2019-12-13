@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="behavior_sample_title">com.example.myapplication.mainactivity.SampleTitleBehavior</string>
+
+    <string name="behavior_sample_header">com.example.myapplication.main2activity.SimpleHeadBehavior</string>
+    <string name="behavior_rv">com.example.myapplication.main2activity.RecyclerViewBehavior</string>
+
+    <string name="my_behavior_rv">com.example.myapplication.main3activity.MyRvBehavior</string>
+    <string name="my_behavior_header">com.example.myapplication.main3activity.MyHeaderBehavior</string>
+    <string name="my_behavior_title">com.example.myapplication.main3activity.MyTitleBehavior</string>
+</resources>
